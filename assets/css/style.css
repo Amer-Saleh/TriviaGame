@@ -1,0 +1,96 @@
+
+body {
+	background-color: #006699;
+}
+
+.container {
+	background-color: #6699FF;
+	width: 751px;
+	height: 501px;
+	margin: 65px 311px 60px 311px;
+
+}
+
+#fun {
+	width: 300px;
+	height: 68px;
+	margin: 30px 245px 20px 235px;
+}
+
+#start {
+	width:  150px;
+	height: 37px;
+	margin: 100px 150px 20px 230px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #006699;
+    border-radius: 60%;
+    color: #141f1f;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ul {
+	list-style-type: none;
+	
+}
+
+.questionMenu {
+	width: 350px;
+	height: 50px;
+	margin: 0 50px 0 50px;
+	align-content: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: blue;
+}
+
+#timeRemaining {
+	text-align: center;
+	color: #800000;
+}
+
+#question {
+	width: 400px;
+}
+
+li, p {
+	width: 350px;
+	margin-bottom: 10px;
+	padding: 5px 0 5px 0;
+	text-align: center;
+	color: black;
+}
+
+li:hover {
+	background-color: #006699;
+	color: white;
+	cursor: pointer;
+}
+
+#footerImg {
+	margin-top: 70px;
+	margin-left: 500px;
+}
+
+#knewIt {
+	margin: 10px 0 0 50px;
+	width: 233px;
+	height: 220px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+#info {
+	width: 430px;
+	height: auto;
+	border-style: dashed;
+	border-width: 1px;
+	padding: 10px;
+	color:  #141f1f;
+	text-align: justify;
+	font-size: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	line-height: 1.5;
+    text-indent: 20px;
+}
+
